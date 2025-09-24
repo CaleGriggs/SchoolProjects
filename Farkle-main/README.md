@@ -3,18 +3,19 @@ Farkle dice game where which one or more players try to score a predetermined nu
 
 Rules:
 
-![Farkel Welcome](https://github.com/user-attachments/assets/781e81db-34b9-4060-b4d1-1c62515e9090)
 <img width="384" height="169" alt="Farkel Welcome" src="https://github.com/user-attachments/assets/cbcc2e1b-0008-4539-8cc2-383b4193efd3" />
+<img width="620" height="549" alt="Farkle Rules" src="https://github.com/user-attachments/assets/310c61f9-14db-4339-b8a2-e3bfd4744245" />
 
 Setup:
 
-![Farkle Setup](https://github.com/user-attachments/assets/1ef2484e-2f49-4298-a85c-77cf0cd61f64)
+<img width="694" height="420" alt="Farkle Setup" src="https://github.com/user-attachments/assets/0084f16d-08a5-4366-9e14-ef775d1f555f" />
 
 Checking player score:
 
-![Farkle points](https://github.com/user-attachments/assets/c6fb6966-1a14-4eda-87da-145aa9140c8d)
+<img width="264" height="245" alt="Farkle points" src="https://github.com/user-attachments/assets/d45fb4f3-86b7-4e90-a5b9-6156bec8acc4" />
 
 Win:
 
-![Farkle End](https://github.com/user-attachments/assets/3b3729b6-c94f-45b5-8919-a6a9ed7d63bb)
+<img width="385" height="348" alt="Farkle final" src="https://github.com/user-attachments/assets/550eacb4-fe3e-49d2-9a5f-7573a179dcbd" />
+<img width="376" height="656" alt="Farkle End" src="https://github.com/user-attachments/assets/42aa41fc-3faf-4a9b-a9fb-a580cf94b1b5" />
 
