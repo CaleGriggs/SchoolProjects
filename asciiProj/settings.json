@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\cggui\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe"
+,
+    "python.autoComplete.extraPaths": ["./src"]
+,
+    "python.linting.pylintArgs": ["--disable=C0103"]
+}
