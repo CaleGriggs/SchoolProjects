@@ -4,6 +4,7 @@ Farkle dice game where which one or more players try to score a predetermined nu
 Rules:
 
 ![Farkel Welcome](https://github.com/user-attachments/assets/781e81db-34b9-4060-b4d1-1c62515e9090)
+<img width="384" height="169" alt="Farkel Welcome" src="https://github.com/user-attachments/assets/cbcc2e1b-0008-4539-8cc2-383b4193efd3" />
 
 Setup:
 
