@@ -1,0 +1,74 @@
+=======================================================================
+============================ ~~~ RULES ~~~ ============================
+=======================================================================
+
+================================ Points ===============================
+Points are acquired one of three different ways.
+
+	A roll of a 1 is worth 100 points.
+	A roll of a 5 is worth 50 points.
+	
+	A roll of 3 of a kind:
+Three (3) dice rolled at the same time with the same value is worth 100
+times the face value, for example: three 2s rolled is 200 points and 
+three 5s rolled is 500 points. One exception to this rule is that 
+three 1s rolled is 1,000 points rather than 100 points.
+	
+	A straight of 5 or 6 dice:
+A straight occurs when five or six sequential dice are rolled together.
+	A straight of one through five(1-5) is worth 500 points.
+	A straight of two through six(2-6) is worth 750 points. 
+	A straight of one through six(1-6) is worth 1500 points.
+
+
+=============================== The Play ==============================
+
+The first player rolls all six dice at the same time and sets aside any 
+“point dice” that appear. At this point, the player has the option to 
+continue to roll the remaining dice to collect even more points,or stop 
+and keep any points acquired.
+
+Each roll's points are calculated indepentently, meaning that if a player
+keeps three 1s over the course of multiple rolls, they won't get the three
+of a kind bonus, nor will they be able to save their dice for a straight.
+
+A Farkle occurs when the dice are rolled and no point dice appear. At 
+this point the player loses all the point dice they have collected 
+during that turn, and the play passes to the next player. No points are 
+recorded.
+
+If a player decides not to risk rolling a Farkle then they can stop 
+rolling and the play passes to the next player. Any points collected 
+during that turn are then recorded.
+
+If, in the course of one turn, all six dice become point dice and are 
+set aside, the player may continue their turn and roll all six dice 
+again, keeping the score they've accumulated during their turn. 
+
+
+=========================== Entering the Game =========================
+
+In order for a player to initially enter the game (record points), 
+they must continue to roll until at least 1,000 points are collected 
+during one turn. Once the player officially enters the game, the points
+are recorded and that player may stop rolling at any time during future
+turns.  Sometimes it might take many turns beforea player can get on the
+board.
+
+Secret Strategy: 
+All point dice do not have to be set aside. If you roll a 1 and a 5,
+sometimes it may be strategic to keep the 1 and roll the 5 again with 
+the rest of the non-point dice. This may give you a better chance of 
+rolling a three of a kind. But, at least one point die must be set aside
+after each roll.
+
+
+================================ Winning ==============================
+
+In order to win, A player must reach the point goal, the default is 
+10,000 points but can be altered.
+
+Once a player gets over the point goal, each of the other players get one
+turn to try to gain the point lead. After the last person's turn, the
+points are counted and ths person with the highest score is then declared
+the winner.
