@@ -16,6 +16,5 @@ Checking player score:
 
 Win:
 
-<img width="385" height="348" alt="Farkle final" src="https://github.com/user-attachments/assets/550eacb4-fe3e-49d2-9a5f-7573a179dcbd" />
 <img width="376" height="656" alt="Farkle End" src="https://github.com/user-attachments/assets/42aa41fc-3faf-4a9b-a9fb-a580cf94b1b5" />
 
